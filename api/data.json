@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Cube multicouleur",
+        "image_format": "jpg",
+        "elo": 100
+    },
+    {
+        "id": "2",
+        "name": "Magnifique accesoire en bois",
+        "image_format": "jpg",
+        "elo": 100
+    },
+    {
+        "id": "3",
+        "name": "Drone DJI Mini en vol",
+        "image_format": "jpg",
+        "elo": 100
+    },
+    {
+        "id": "4",
+        "name": "Vanne WolkVagen",
+        "image_format": "jpg",
+        "elo": 100
+    },
+    {
+        "id": "5",
+        "name": "Mercedes",
+        "image_format": "jpg",
+        "elo": 100
+    },
+    {
+        "id": "6",
+        "name": "Beau paysage",
+        "image_format": "jpg",
+        "elo": 100
+    },
+    {
+        "id": "7",
+        "name": "Arbre au beau milieu",
+        "image_format": "jpg",
+        "elo": 100
+    }
+]
